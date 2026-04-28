@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamza1096
-- 👀 I’m interested in web development, artificial intelligence
-- 🌱 I’m currently learning python, C++
+- 👀 I’m interested in AI/ML, LLMs specifically.
+- 🌱 I’m currently learning pytorch for deep learning.
 - 📫 My email address is hamzasultan1096151005@gmail.com
 
 <!---
